@@ -37,6 +37,7 @@ This project is a Python-based network security tool that captures and analyzes 
 ```bash
 sudo apt update
 sudo apt install python3-scapy
+pip install -r requirements.txt
 ```
 
 ## How to Run
